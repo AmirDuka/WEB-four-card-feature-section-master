@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(235, 235, 235);
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    text-align: left;
+}
+
+.p1 {
+   font-weight: lighter;
+   margin-bottom: 0;
+}
+
+.p2 {
+    font-weight: bolder;
+    margin-top: 0;
+}
+
+.p3 {
+   width: 35%;
+   margin: auto;
+   margin-bottom: 75px;
+}
+
+.top-container {
+    text-align: center;
+}
+
+.bottom-container {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.card-left {
+    display: inline-block;
+    background-color: white;
+    width: 22%;
+    border-style: none;
+    border-top-style: solid;
+    border-color:hsl(180, 62%, 55%);
+    padding: 10px;
+    box-shadow: 5px 5px gray;
+    margin-right: 25px;
+    position: relative;
+    bottom: 140px;
+    border-top-width: 4px;
+    border-radius: 3%;
+}
+
+.card-top-bottom {
+    display: inline-block;
+    position: relative;
+    width: 24%;
+}
+
+.card-top {
+    border-style: none;
+    border-top-style: solid;
+    border-color:hsl(0, 78%, 62%);
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px gray;
+    border-top-width: 4px;
+    border-radius: 3%;
+}
+
+.card-bottom {
+    border-style: none;
+    border-top-style: solid;
+    border-color:hsl(34, 97%, 64%);
+    background-color: white;
+    box-shadow: 5px 5px gray;
+    padding: 10px;
+    margin-top: 50px;
+    border-top-width: 4px;
+    border-radius: 3%;
+}
+
+.card-right {
+    background-color: white;
+    display: inline-block;   
+    position: relative;
+    bottom: 140px;
+    width: 22%;
+    border-top-width: 4px;
+    border-radius: 3%;
+    border-style: none;
+    border-top-style: solid;
+    border-color:hsl(212, 86%, 64%);
+    padding: 10px;
+    box-shadow: 5px 5px gray;
+    margin-left: 25px;
+}
+
+.attribution {
+    margin-top: 20px;
+    font-size: 11px; text-align: center; 
+    text-decoration: none;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+.p4 {
+    text-align: left;
+}
+
+ .vector {
+     text-align: right;
+ }
